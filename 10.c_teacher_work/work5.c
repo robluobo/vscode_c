@@ -44,7 +44,7 @@ int main()
 */
 
 //2.写一个函数，使得两个字符串连接
-/*
+
 void combine(char arr1[],char arr2[],int sz1,int sz2)
 {
     int i=0;
@@ -84,7 +84,7 @@ int main()
 
     return 0;
 }
-*/
+
 
 
 

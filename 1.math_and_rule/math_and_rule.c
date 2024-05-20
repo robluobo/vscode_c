@@ -1,4 +1,5 @@
-#include <stdio.h>
+#include <stdio.h>//头文件
+
 /*
 int main()
 {
